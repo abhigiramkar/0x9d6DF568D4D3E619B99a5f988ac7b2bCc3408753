@@ -1,0 +1,31 @@
+{
+  "name": "Lumishare",
+  "website": "https://limishare.io",
+  "description": "LumiShare is a financial blockchain ecosystem powered by $LUMI, to tokenize and fractionalize Real World Assets, starting with renewable energy assets.",
+  "explorer": "http://bscscan.com",
+  "symbol": "LUMI",
+  "type": "Token",
+  "decimals": 18,
+  "status": "active",
+  "tags": [
+    "DEFI"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/LumiShareLUMI"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Lumishare_Lumi"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/company/lumishare"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://lumishare.io/wp-content/uploads/2023/07/LumiShare-Whitepaper_06.07.2023_v1.0.pdf"
+    }
+  ]
+}
